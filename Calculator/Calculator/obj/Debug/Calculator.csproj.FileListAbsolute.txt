@@ -1,0 +1,2 @@
+D:\22.11.4806\Pertemuan1\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\22.11.4806\Pertemuan1\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache

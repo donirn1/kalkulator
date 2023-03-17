@@ -1,0 +1,8 @@
+C:\Pemrograman\Pertemuan1\Tugas\Tugas\bin\Debug\Tugas.exe.config
+C:\Pemrograman\Pertemuan1\Tugas\Tugas\bin\Debug\Tugas.exe
+C:\Pemrograman\Pertemuan1\Tugas\Tugas\bin\Debug\Tugas.pdb
+C:\Pemrograman\Pertemuan1\Tugas\Tugas\obj\Debug\Tugas.csproj.AssemblyReference.cache
+C:\Pemrograman\Pertemuan1\Tugas\Tugas\obj\Debug\Tugas.csproj.SuggestedBindingRedirects.cache
+C:\Pemrograman\Pertemuan1\Tugas\Tugas\obj\Debug\Tugas.csproj.CoreCompileInputs.cache
+C:\Pemrograman\Pertemuan1\Tugas\Tugas\obj\Debug\Tugas.exe
+C:\Pemrograman\Pertemuan1\Tugas\Tugas\obj\Debug\Tugas.pdb
